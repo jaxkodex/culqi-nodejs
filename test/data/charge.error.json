@@ -1,0 +1,5 @@
+{
+	"object": "error",
+	"type": "authentication_error",
+	"merchant_message": "Has utilizado la llave equivocada para realizar la operación. Dirígete al Panel de Integracion para usar las llaves correctas."
+}

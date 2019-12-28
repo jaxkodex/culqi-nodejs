@@ -1,0 +1,38 @@
+{
+    "object": "token",
+    "id": "tkn_live_0CjjdWhFpEAZlxlz",
+    "type": "card",
+    "email": "richard@piedpiper.com",
+    "creation_date": 1476132639,
+    "card_number": "442328******1214",
+    "last_four": "1214",
+    "active": true,
+    "iin": {
+      "object": "iin",
+      "bin": "442328",
+      "card_brand": "Visa",
+      "card_type": "credito",
+      "card_category": "platinum",
+      "issuer": {
+        "name": "Silicon Valley Bank",
+        "country": "United States",
+        "country_code": "US",
+        "website": "https://www.svb.com",
+        "phone_number": "+1.800.774.7390"
+      },
+      "installments_allowed": [
+      2, 4, 8, 12, 24, 36
+      ]
+    },
+    "client": {
+      "ip": "72.229.28.185",
+      "ip_country": "United States",
+      "ip_country_code": "US",
+      "browser": "Google Chrome 56.0.2924.87",
+      "device_fingerprint": "6rITdVTYkWfOrss8",
+      "device_type": "escritorio"
+    },
+    "metadata": {
+      "dni":"5831543"
+    }
+  }
